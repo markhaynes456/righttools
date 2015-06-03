@@ -106,7 +106,6 @@ body {
 .bg-skew-contact {
   height: 65%;
 	background: dodgerblue;
-	margin-top: 1000px;
   .contact {
     margin: -100px 0 150px;
   }
@@ -137,7 +136,7 @@ body {
     }
   }
   .bg-skew-contact {
-    margin-top: 600px;
+
   }
 }
 
@@ -279,12 +278,12 @@ body {
 
 .features {
   text-align: center;
-  padding-top: 8em;
   padding-bottom: 3em;
   hr {
     width: 25%;
     margin: 1rem auto;
   }
+  
   .round-icon {
   background-color: #E87E04;
   border-radius: 50%;
@@ -300,6 +299,7 @@ body {
     vertical-align: middle;
     }
   }
+
   @media only screen and (max-width: 40em) {
     .columns {
       margin-bottom: 5rem;
